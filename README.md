@@ -1,4 +1,4 @@
 # Github-demo
 This is my first Git Repository.
 <br>
-Author - Vaniya Ansari
+Author - Vaniya (git hub)
